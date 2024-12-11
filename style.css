@@ -1,0 +1,26 @@
+body{
+    font-family:arial, sens-serif;
+     background-color:blueviolet;
+     margin:0; 
+     padding: 0;
+    
+}
+.container{
+    width:80%;
+    margin:20px auto;
+    text-align: center;
+    background:#fff;
+    padding:10px;
+    border: 1px solid #ccc;
+
+}
+.titulo{
+    font-size: 24px;
+    color:#333
+}
+.imagem-container img{
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    
+}
